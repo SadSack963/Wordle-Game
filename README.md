@@ -1,4 +1,5 @@
 # Wordle-Game
+Cloned from https://github.com/ritik48/Wordle-Game
 
 ### This is a simple clone of the popular game called "Wordle", made using Tkinter module in Python.
 In this game there's a fixed size of blanks and we have to guess the word, with each guess we also get the hint as below : 
